@@ -1,4 +1,4 @@
-Superstore Sales Analysis - Power BI Dashboard
+Superstore Sales Analysis - Power BI Dashboards
 =
 ![Screenshot 2025-01-17 130329](https://github.com/user-attachments/assets/42e21a62-516f-4ec3-9d36-315a8481f29d)
 ![Screenshot 2025-01-17 130353](https://github.com/user-attachments/assets/5b9d8935-cde2-4b1f-93fd-ba6b329905c7)
