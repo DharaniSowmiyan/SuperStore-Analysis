@@ -1,2 +1,5 @@
 matplotlib
 os
+pandas
+plotly.express
+warnings
